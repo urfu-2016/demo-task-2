@@ -1,0 +1,29 @@
+body,
+html
+{
+    margin: 0;
+    padding: 0;
+}
+
+.cat-content
+{
+    width: 470px;
+    padding: 20px;
+}
+
+.cat-content__img
+{
+    height: 300px;
+    width: 300px;
+}
+
+.cat-content__more-link
+{
+    text-decoration: none;
+    color: #999;
+}
+
+.cat-content__more-link:hover
+{
+    color: #3100f7;
+}
