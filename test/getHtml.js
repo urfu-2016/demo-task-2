@@ -1,5 +1,4 @@
 /* global describe, it, global */
-'use strict'
 require('should');
 const fs = require('fs');
 let files = fs.readdirSync('.');
