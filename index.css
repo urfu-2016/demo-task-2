@@ -1,0 +1,39 @@
+body
+{
+    background-color: pink;
+}
+
+img
+{
+    width: 500px;
+    height: auto;
+}
+
+a
+{
+    font-size: 30px;
+    color: blue;
+}
+
+a:link
+{
+    text-decoration: none;
+}
+
+table
+{
+    margin: 5px;
+    border: 1px double #fff;
+    
+}
+
+td
+{
+    border: 1px solid #fff;
+}
+
+p
+{
+    color: green;
+    font-size: 20px;
+}
